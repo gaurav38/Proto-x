@@ -1,0 +1,15 @@
+8 14
+aa:bb:cc:dd:ee:00 aa:bb:cc:dd:ee:01 20
+aa:bb:cc:dd:ee:00 aa:bb:cc:dd:ee:06 90
+aa:bb:cc:dd:ee:00 aa:bb:cc:dd:ee:03 80
+aa:bb:cc:dd:ee:01 aa:bb:cc:dd:ee:05 10
+aa:bb:cc:dd:ee:02 aa:bb:cc:dd:ee:03 10
+aa:bb:cc:dd:ee:02 aa:bb:cc:dd:ee:05 50
+aa:bb:cc:dd:ee:02 aa:bb:cc:dd:ee:07 20
+aa:bb:cc:dd:ee:03 aa:bb:cc:dd:ee:06 20
+aa:bb:cc:dd:ee:03 aa:bb:cc:dd:ee:02 10
+aa:bb:cc:dd:ee:04 aa:bb:cc:dd:ee:01 50
+aa:bb:cc:dd:ee:04 aa:bb:cc:dd:ee:06 30
+aa:bb:cc:dd:ee:05 aa:bb:cc:dd:ee:03 40
+aa:bb:cc:dd:ee:05 aa:bb:cc:dd:ee:02 10
+aa:bb:cc:dd:ee:06 aa:bb:cc:dd:ee:00 20
